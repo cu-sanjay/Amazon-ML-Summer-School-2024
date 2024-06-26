@@ -33,7 +33,7 @@ The overall test duration will be 75 minutes.
 ## Contents of the Repository
 - **[Programming Questions](Programming.md):** Two programming questions that will be part of the selection test.
 - **[MCQ Questions](MCQs.md):** Multiple Choice Questions (MCQs) asked in both ML and domain sections.
-- **[Summer School 2023 Questions](SummerSchool2023.pdf):** Questions from the 2023 ML Summer School for practice and reference.
+- **[Summer School 2023 Questions](SummerSchool2023.md):** Questions from the 2023 ML Summer School for practice and reference.
 
 ---
 
